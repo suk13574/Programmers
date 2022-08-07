@@ -33,7 +33,6 @@ class Solution {
         Map.Entry entry = (Map.Entry)iter.next();
         System.out.println(entry.getKey()+" "+entry.getValue());
 
-        
         String answer = (String)entry.getKey();
         
         return answer;
